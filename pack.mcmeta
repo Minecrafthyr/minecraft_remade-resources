@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "description": "v1.0.0-preview2 for 1.21.4 by Minecraft_hyr",
+    "supported_formats": [
+      46,
+      47
+    ]
+  }
+}
